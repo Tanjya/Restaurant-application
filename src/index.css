@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-img {
+  background-image: url("https://vapiano.com/app/uploads/sites/2/2021/05/Screenshot-2021-05-28-at-16.46.16.webp");
+  background-repeat: no-repeat;
+}
+
+.background-nav {
+  background-color: #cb5650;
+}
+
+.background-locationPage {
+  background-image: url("https://5th-view-bar-and-food.co.uk/app/themes/5th-view/dist/img/london-slide-1.jpg");
+  background-repeat: no-repeat;
+}
+
+.background-contactPage {
+  background-image: url("https://as2.ftcdn.net/v2/jpg/02/99/78/83/1000_F_299788342_zZuxKx2fLt8Ji2uZVFYuXM33wk5Vgy6W.jpg");
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  background-position: center;
+}

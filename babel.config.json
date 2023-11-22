@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "14.8.0"
+        }
+      }
+    ],
+    "@babel/preset-react"
+  ]
+}
