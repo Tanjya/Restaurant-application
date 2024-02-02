@@ -1,8 +1,17 @@
-# React + Vite
+README: Restaurant Website Replica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+This project presents a replica of a restaurant website, focusing on seamless integration with the restaurant's branding and creating an engaging user experience. It leverages modern technologies and best practices to achieve this goal.
 
-Currently, two official plugins are available:
+Key Features:
+Branding consistency: Design meticulously aligns with the restaurant's brand identity and ambience, providing a unified experience.
+Intuitive search: A powerful search feature powered by React state management offers real-time, relevant results by combining server-side and client-side technologies.
+Interactive menu: RESTful API displays menu items with corresponding recipes, fostering user engagement and exploration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies:
+Frontend: React (with state management library)
+Backend: RESTful API
+(Optional) Additional technologies used in the replica
+
+Demo:
+https://restaurant-tanjya.netlify.app/
