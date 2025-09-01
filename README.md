@@ -1,6 +1,6 @@
 # 🍴 Restaurant Website Replica
 
-A responsive restaurant web app designed to reflect the restaurant’s branding while delivering a smooth and engaging user experience. Built with **React** and modern web technologies.  
+A responsive restaurant web application designed to reflect the restaurant’s branding while delivering a smooth and engaging user experience. Built with **React** and modern web technologies.  
 
 ---
 
